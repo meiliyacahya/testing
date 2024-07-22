@@ -1,0 +1,12 @@
+{
+    "schemaPath": "C:\\xampp\\htdocs\\proyek-php\\schema.json",
+    "name": "meli/scheduling-system",
+    "description": "A school scheduling system",
+    "type": "project",
+    "require": {
+        "sangkoder/mini": "dev-main"
+    },
+    
+    "minimum-stability": "dev",
+    "license": "MIT"
+}

@@ -1,0 +1,47 @@
+{
+    "packages": [
+        {
+            "name": "sangkoder/mini",
+            "version": "dev-main",
+            "version_normalized": "dev-main",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/sangkoder83/mini.git",
+                "reference": "fb6c93819966a91a319b6703a3cff9f70b92291f"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/sangkoder83/mini/zipball/fb6c93819966a91a319b6703a3cff9f70b92291f",
+                "reference": "fb6c93819966a91a319b6703a3cff9f70b92291f",
+                "shasum": ""
+            },
+            "time": "2024-06-21T02:15:12+00:00",
+            "default-branch": true,
+            "type": "project",
+            "installation-source": "dist",
+            "autoload": {
+                "psr-4": {
+                    "Mini\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "sangkoder",
+                    "email": "dev@sangkoder.com"
+                }
+            ],
+            "description": "Mini Proyek PHP Framework",
+            "support": {
+                "issues": "https://github.com/sangkoder83/mini/issues",
+                "source": "https://github.com/sangkoder83/mini/tree/main"
+            },
+            "install-path": "../sangkoder/mini"
+        }
+    ],
+    "dev": true,
+    "dev-package-names": []
+}

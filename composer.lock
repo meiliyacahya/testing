@@ -1,0 +1,59 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "755d93cd9f3f9bf40c7261ac91b5e74d",
+    "packages": [
+        {
+            "name": "sangkoder/mini",
+            "version": "dev-main",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/sangkoder83/mini.git",
+                "reference": "fb6c93819966a91a319b6703a3cff9f70b92291f"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/sangkoder83/mini/zipball/fb6c93819966a91a319b6703a3cff9f70b92291f",
+                "reference": "fb6c93819966a91a319b6703a3cff9f70b92291f",
+                "shasum": ""
+            },
+            "default-branch": true,
+            "type": "project",
+            "autoload": {
+                "psr-4": {
+                    "Mini\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "sangkoder",
+                    "email": "dev@sangkoder.com"
+                }
+            ],
+            "description": "Mini Proyek PHP Framework",
+            "support": {
+                "issues": "https://github.com/sangkoder83/mini/issues",
+                "source": "https://github.com/sangkoder83/mini/tree/main"
+            },
+            "time": "2024-06-21T02:15:12+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "dev",
+    "stability-flags": {
+        "sangkoder/mini": 20
+    },
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": [],
+    "plugin-api-version": "2.6.0"
+}
